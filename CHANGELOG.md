@@ -1,4 +1,4 @@
-## Version 1.12.1.0 (July 14, 2017)
+## Version 1.12.1 (July 14, 2017)
 #### **Enhancements**
 - InstaBot text prompt nodes now support embedded YouTube videos 
 - Any links detected (eg: www, http://, etc) in an InstaBot nodes are now directly clickable by the user within the InstaBot
