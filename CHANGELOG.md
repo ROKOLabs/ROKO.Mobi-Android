@@ -1,3 +1,13 @@
+## Version 1.12.2 (August 16, 2017)
+#### **Enhancements**
+- Internal refactoring for upcoming new features and performance improvements
+
+#### **Bug Fixes**
+- Fixed issues related to incorrect conversation analytics in the portal
+- Fixed issues related to incorrect ordering of multiple-choice choices 
+- Fixed intermittent issue of a conversation not being able to advance
+
+
 ## Version 1.12.1 (July 14, 2017)
 #### **Enhancements**
 - InstaBot text prompt nodes now support embedded YouTube videos 
