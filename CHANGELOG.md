@@ -1,3 +1,14 @@
+## Version 1.12.3 (August 31st, 2017)
+#### **Enhancements**
+- Added a new Instabot user-response type - multi-select
+- Added client-side support for conversations that contain a conversation path that connects to existing nodes in the conversation
+- Added support for full, client-side Instabot-UI customization 
+
+#### **Bug Fixes**
+- Fixed issue with "*invalid email*" error when the email entered is actually valid
+- Fixed issues related to registered/anonymous user sessions
+
+
 ## Version 1.12.2 (August 16, 2017)
 #### **Enhancements**
 - Internal refactoring for upcoming new features and performance improvements
